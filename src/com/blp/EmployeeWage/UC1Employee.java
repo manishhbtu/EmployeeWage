@@ -8,6 +8,8 @@ public class UC1Employee {
             System.out.println("Employee is present");
         }else {
             System.out.println("Employee is absent");
+
+
         }
     }
 
